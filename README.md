@@ -22,7 +22,7 @@ New method (or improved method) is the method provided in the  paper "Improved p
 
 
 
-**Notice:** The source code does not provide the intermediate mesh data and final mesh data. You should generate these data step by step. There is a Figure.m program in each program directory to draw the figure of generated data.    
+**Notice:** The source code does not provide the intermediate data and final mesh data. You should generate these data step by step. There is a Figure.m program in each program directory to draw the figure of generated data.    
 
 
 
