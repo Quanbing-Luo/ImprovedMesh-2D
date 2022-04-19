@@ -15,7 +15,7 @@ The source code of Initial Mesh generated the Initial Mesh used for mesh generat
 There are two mesh generation methods in the source code: (a) Old Method, (b) New Method.
 
 ### (a) Old Method
-Old method (or original method) is the method provided in my previous paper "Automatic Delaunay mesh generation method and physically-based mesh optimization method on two-dimensional regions". The source code is revised in some places.   
+Old method (or original method) is the method provided in my previous paper "Automatic Delaunay mesh generation method and physically-based mesh optimization method on two-dimensional regions". I have revised the original source code in some places.   
 
 ### (b) New Method
 New method (or improved method) is the method provided in the  paper "Improved physically-based high-quality mesh generation method on two-dimensional regions (Submitted to Journal)". 
